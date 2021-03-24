@@ -70,3 +70,7 @@ dist
 # cypress videos & screenshots
 cypress/videos
 cypress/screenshots
+
+# solution & final
+final
+solutions
