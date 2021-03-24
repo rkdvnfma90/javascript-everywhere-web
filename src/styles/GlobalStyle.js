@@ -37,6 +37,13 @@ pre {
   overflow: auto;
   margin: 0 auto;
 }
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 2;
+}
 `
 
 export default GlobalStyle
